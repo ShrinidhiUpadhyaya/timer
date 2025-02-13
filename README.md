@@ -33,3 +33,4 @@ A simple and efficient timer application built using [technology/framework used]
 3. Click the start button to begin.
 4. Pause or reset as needed.
 5. The app will alert when the countdown finishes.
+
